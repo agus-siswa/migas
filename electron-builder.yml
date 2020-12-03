@@ -1,0 +1,4 @@
+appId: com.migasCepu.app
+publish:
+  provider: github
+  token: c5a5db4f5ade1ef2a02228d45116b6895704053b
